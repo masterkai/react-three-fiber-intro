@@ -1,7 +1,10 @@
+// @ts-ignore
 import React from 'react';
+// @ts-ignore
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// @ts-ignore
+import App from './App.tsx';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
